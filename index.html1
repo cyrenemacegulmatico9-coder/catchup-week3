@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>My Digital ID Card</title>
+  </head>
+
+  <body>
+    <header>
+      <h1>Cyrene Mace Gulmatico</h1>
+    </header>
+
+    <main>
+      <p>Course: BS Information Technology</p>
+      <p>Dream Job: Data Analyst or Web Developer</p>
+    </main>
+
+    <footer>
+      <a href="https://github.com/cyrenemacegulmatic09-coder">My GitHub Profile</a>
+    </footer>
+  </body>
+</html>
+
